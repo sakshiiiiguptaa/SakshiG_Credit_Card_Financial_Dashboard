@@ -8,6 +8,8 @@ Power BI Project showcasing "Transactions by Credit Cards and Details of the Cus
 💡 Data Processing with DAX: Robust data processing techniques and DAX queries are implemented to calculate weekly metrics and trends. New columns and calculations streamline data analysis, providing a comprehensive view of credit card performance. 📊✨
 
 The following DAX queries were used in this project to transform the data:
+
+
 (1)
 AgeGroup = SWITCH(
 TRUE(),
