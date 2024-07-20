@@ -57,6 +57,36 @@ ________________________________________________________________________________
     Credit Card Transaction Report: Dive into transaction insights with interactive KPIs and graphs, showcasing revenue by income, marital status, dependents, education, and weekly trends.
     Credit Card Customer Report: Explore customer-centric analytics including revenue by gender, job role, education, expenditure type, customer acquisition cost, quarterly revenue, and total transaction amounts.
 
+***************************************************************************************************************************************
+📝   Insights from the Dashboard:
+
+
+👉 Week-over-Week Change:
+
+1. Revenue increased by 28.8%.
+
+2. Total transaction amount and count increased significantly.
+
+3. Notable rise in customer count.
+
+
+👉Year-to-Date Overview:
+
+1. Overall revenue reached 57M.
+
+2. Total interest amount: 8M.
+
+3. Total transaction amount: 46M.
+
+4. Male customers contributed 31M, female customers contributed 26M.
+
+5. Blue & Silver credit cards accounted for 93% of transactions.
+
+6. Top contributing states: TX, NY, and CA (68% of total revenue).
+
+7. Activation rate: 57.5%, Delinquency rate: 6.06%.
+**********************************************************************************************************************************
+
 📊 Interactive Visualization: The dashboards offer a user-friendly experience with interactive elements such as quarterly view buttons and dynamic graphs, facilitating deeper exploration of credit card data.
 
 This project showcases advanced data analytics with intuitive design, empowering stakeholders to make data-driven decisions with confidence and agility. Revolutionize credit card operations with insightful analytics! 💪🌐 
